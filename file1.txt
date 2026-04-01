@@ -1,9 +1,6 @@
 I am Abhijit
 I am at Datamites
-<<<<<<< HEAD
 I am Data Engineer
 The course is Running
 Manideep is uno looser
-=======
 In KPHB
->>>>>>> branch21
